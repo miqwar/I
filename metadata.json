@@ -1,0 +1,6 @@
+{
+  "name": "KeyRoom",
+  "description": "An advanced Android application management platform for packet analysis, storage exploration, backups, and databases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
